@@ -1,5 +1,4 @@
-Jenkins-Docker
----
+# Jenkins-Docker [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg?maxAge=2592000?style=flat-square)](https://github.com/LeoAref/jenkins-docker/blob/master/LICENSE.txt)
 
 An image for running Docker command in Jenkins, it's not *docker-in-docker*, but instead it enables exposing Docker socket to the Jenkins container
 
