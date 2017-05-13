@@ -7,3 +7,4 @@ git:latest
 greenballs:latest
 dockerhub-notification:latest
 async-http-client:latest
+pipeline-utility-steps:latest
