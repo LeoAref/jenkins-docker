@@ -9,4 +9,5 @@ dockerhub-notification:latest
 async-http-client:latest
 pipeline-utility-steps:latest
 ghprb:latest
+nodejs: latest
 ssh-agent: latest
