@@ -10,4 +10,5 @@ async-http-client:latest
 pipeline-utility-steps:latest
 ghprb:latest
 nodejs: latest
+cobertura: latest
 ssh-agent: latest
